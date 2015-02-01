@@ -1,0 +1,8 @@
+{
+    "name": "build-flag-api",
+    "version": "0.0.1",
+    "description": "Node front-end to arduino motor",
+    "dependencies": {
+        "express": "~3.1.0"
+    }
+}
